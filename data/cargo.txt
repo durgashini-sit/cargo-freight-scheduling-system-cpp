@@ -1,0 +1,10 @@
+C58,Paris,11:59pm,2
+C08,Bangkok,8:55am,2
+C01,Amsterdam,7:20am,5
+C47,Paris,11:50pm,1
+C14,Tokyo,5:20pm,10
+C15,Jakarta,9:41pm,2
+C36,Paris,11:45pm,1
+C13,Tokyo,5:10pm,8
+C02,Amsterdam,7:25am,5
+C18,Jakarta,10:30pm,2

@@ -1,0 +1,11 @@
+F25,Tokyo,5:10pm,CargoCruiser,6
+F02,Amsterdam,7:20am,MegaCarrier,12
+F06,Bangkok,9:15am,MegaCarrier,12
+F14,Tokyo,5:10pm,CargoCruiser,6
+F19,New York,5:10pm,MegaCarrier,12
+F26,Tokyo,5:15pm,MiniMover,2
+F37,Jakarta,9:30pm,CargoCruiser,6
+F48,Paris,11:59pm,MiniMover,2
+F01,Amsterdam,7:10am,MiniMover,2
+F13,Tokyo,5:00pm,MiniMover,2
+F094mm,London,12:45pm,mm,2

@@ -1,0 +1,8 @@
+Freight F02 (Amsterdam, 7:20am)  <-->  Cargo C01 (Amsterdam, 7:20am, Group=5)
+Freight F02 (Amsterdam, 7:20am)  <-->  Cargo C02 (Amsterdam, 7:25am, Group=5)
+Freight F37 (Jakarta, 9:30pm)  <-->  Cargo C15 (Jakarta, 9:41pm, Group=2)
+Freight F48 (Paris, 11:59pm)  <-->  Cargo C58 (Paris, 11:59pm, Group=2)
+Freight F25 (Tokyo, 5:10pm)  <-->  Cargo C13 (Tokyo, 5:10pm, Group=6)
+Freight F14 (Tokyo, 5:10pm)  <-->  Cargo C13 (Tokyo, 5:10pm, Group=2)
+Freight F14 (Tokyo, 5:10pm)  <-->  Cargo C14 (Tokyo, 5:20pm, Group=4)
+Freight F26 (Tokyo, 5:15pm)  <-->  Cargo C14 (Tokyo, 5:20pm, Group=2)
